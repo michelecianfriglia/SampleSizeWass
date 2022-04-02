@@ -6,6 +6,8 @@
 [![CRAN](https://www.R-pkg.org/badges/version/SampleSizeWass)](https://CRAN.R-project.org/package=SampleSizeWass)
 [![License](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0)
 
+[![Contributors](https://contrib.rocks/image?repo=michelecianfriglia/SampleSizeWass)](https://github.com/michelecianfriglia)
+
 ## Description
 
 The `SampleSizeWass` package implements Bayesian sample size
