@@ -5,8 +5,7 @@
 [![Version](https://img.shields.io/badge/version-0.4.8-orange.svg)]()
 [![CRAN](https://www.R-pkg.org/badges/version/SampleSizeWass)](https://CRAN.R-project.org/package=SampleSizeWass)
 [![License](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0)
-
-[![Contributors](https://contrib.rocks/image?repo=michelecianfriglia/SampleSizeWass)](https://github.com/michelecianfriglia)
+[![R-CMD-check](https://github.com/michelecianfriglia/SampleSizeWass/workflows/R-CMD-check/badge.svg)](https://github.com/michelecianfriglia/SampleSizeWass/actions)
 
 ## Description
 
