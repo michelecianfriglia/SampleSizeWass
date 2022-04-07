@@ -44,3 +44,7 @@ The `SampleSizeWass` package is licensed under the [GNU General Public License V
 The website of the package can be consulted at this [link]().
 
 To report issues or bugs, please go [here](https://github.com/michelecianfriglia/SampleSizeWass/issues).
+
+## Code of conduct
+
+This project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
