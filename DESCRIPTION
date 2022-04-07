@@ -3,7 +3,7 @@ Version: 0.4.8
 Date: 2022-04-??
 Title: Wasserstein-based Sample Size Calculations
 Authors@R: c(
-    person("Michele", "Cianfriglia", email = "michele.cianfriglia@uniroma1.it", role = c("aut", "cre")),
+    person("Michele", "Cianfriglia", email = "michele.cianfriglia@uniroma1.it", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1019-3438")),
     person("Tullia", "Padellini", role = "ctb"),
     person("Pierpaolo", "Brutti", role = "ctb"))
 Description: Implements Bayesian sample size determination criteria based on the Wasserstein distance to ensure posterior consensus starting from different prior distributions. These criteria are available in the conjugate Binomial and Normal models, as described in the work of Cianfriglia et al. (2022) \dQuote{Wasserstein consensus for Bayesian sample size determination}.
