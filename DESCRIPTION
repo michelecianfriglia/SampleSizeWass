@@ -9,7 +9,8 @@ Authors@R: c(
 Description: Implements Bayesian sample size determination criteria based on the Wasserstein distance to ensure posterior consensus starting from different prior distributions. These criteria are available in the conjugate Binomial and Normal models, as described in the work of Cianfriglia et al. (2022) \dQuote{Wasserstein consensus for Bayesian sample size determination}.
 License: GPL-3
 Encoding: UTF-8
-URL: https://github.com/michelecianfriglia/SampleSizeWass
+URL: https://github.com/michelecianfriglia/SampleSizeWass,
+     https://michelecianfriglia.github.io/SampleSizeWass
 BugReports: https://github.com/michelecianfriglia/SampleSizeWass/issues
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
