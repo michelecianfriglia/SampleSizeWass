@@ -7,8 +7,6 @@
 [![License](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0)
 [![R-CMD-check](https://github.com/michelecianfriglia/SampleSizeWass/workflows/R-CMD-check/badge.svg)](https://github.com/michelecianfriglia/SampleSizeWass/actions)
 
-## Description
-
 The `SampleSizeWass` package implements Bayesian sample size
 determination criteria based on the Wasserstein distance to ensure
 posterior consensus starting from different prior distributions. These
