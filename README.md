@@ -1,11 +1,11 @@
 
-# SampleSizeWass
-
 [![Status](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Version](https://img.shields.io/badge/version-0.4.8-orange.svg)]()
 [![CRAN](https://www.R-pkg.org/badges/version/SampleSizeWass)](https://CRAN.R-project.org/package=SampleSizeWass)
 [![License](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0)
 [![R-CMD-check](https://github.com/michelecianfriglia/SampleSizeWass/workflows/R-CMD-check/badge.svg)](https://github.com/michelecianfriglia/SampleSizeWass/actions)
+
+# SampleSizeWass <img src="man/figures/logo.png" align="right" alt="" width="160px" />
 
 The `SampleSizeWass` package implements Bayesian sample size
 determination criteria based on the Wasserstein distance to ensure
